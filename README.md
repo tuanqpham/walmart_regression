@@ -1,2 +1,2 @@
 # walmart_regression
-Our regression model on predicting weekly sales at Walmart
+In this project, we aim to build and compare three different regression models in predicting the weekly sales at Walmart: \textbf{H}
