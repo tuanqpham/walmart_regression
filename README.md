@@ -1,6 +1,7 @@
 # walmart_regression
 ## Introduction: 
-An article by Zach Lazzari (2018) that discusses the role of sales in business firms, argues that sales is the most crucial element for the survival of an organization. Furthermore, it has a significant impact on other aspects of a business such as the firm's overall profit, brand image and most importantly, it reflects customers' loyalty of the organization.
+* An article by Zach Lazzari (2018) that discusses the role of sales in business firms, argues that sales is the most crucial element for the survival of an organization. Furthermore, it has a significant impact on other aspects of a business such as the firm's overall profit, brand image and most importantly, it reflects customers' loyalty of the organization.
+## Methods:
 In this project, we aim to build and compare three different regression models in predicting the weekly sales at Walmart - a global corporation known for its extensive network of stores and diverse products. We use the following external factors as explanatory variables for our model:
 - `Holiday_Flag`: dummy variable showing whether the timepoint observations were recorded as a holiday or not.
 - `Temperature`
