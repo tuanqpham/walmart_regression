@@ -4,7 +4,7 @@
 ## Methods:
 * In this project, we aim to build and compare three different regression models in predicting the weekly sales at Walmart - a global corporation known for its extensive network of stores and diverse products.
   
-** Fist, we loaded the dataset from Kaggle: https://www.kaggle.com/datasets/yasserh/walmart-dataset/code. 
+  * Fist, we loaded the dataset from Kaggle: https://www.kaggle.com/datasets/yasserh/walmart-dataset/code. 
   
 *  We use the following external factors as explanatory variables for our model:
 - `Holiday_Flag`: dummy variable showing whether the timepoint observations were recorded as a holiday or not.
